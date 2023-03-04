@@ -1,0 +1,10 @@
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\bin\Debug\Tic tac toe game.exe.config
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\bin\Debug\Tic tac toe game.exe
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\bin\Debug\Tic tac toe game.pdb
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic_tac_toe_game.frmmain.resources
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic_tac_toe_game.Properties.Resources.resources
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic tac toe game.csproj.GenerateResource.cache
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic tac toe game.csproj.CoreCompileInputs.cache
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic tac toe game.exe
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic tac toe game.pdb
+C:\Users\penah\OneDrive\Рабочий стол\Tic tac toe game\Tic tac toe game\obj\Debug\Tic tac toe game.csprojAssemblyReference.cache
